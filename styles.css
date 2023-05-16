@@ -1,0 +1,42 @@
+/* CSS styles for the header */
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+/* CSS styles for the navigation menu */
+nav {
+  background-color: #666;
+  color: white;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav li a {
+  color: white;
+  text-decoration: none;
+}
+
+/* CSS styles for the main content */
+main {
+  margin: 20px;
+}
+
+/* CSS styles for the footer */
+footer {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
